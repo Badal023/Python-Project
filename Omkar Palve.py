@@ -39,4 +39,4 @@ start_button = tk.Button(root, text="Start Timer", command=start_timer)
 start_button.pack(pady=20)
 
 # Run the Tkinter event loop
-root.mainloop(
+root.mainloop()
